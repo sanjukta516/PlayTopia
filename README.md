@@ -15,9 +15,11 @@ This project was built for a hackathon to empower businesses with a simple, mobi
 
 
 ##  Preview
-
+Homepage
 ![Playtopia Homepage](homepage.png)
+Map
 ![Playtopia Map](map.png)
+Gallery
 ![Playtopia Galler](gallery.png)
 
 
